@@ -1,5 +1,5 @@
-const lat = 35.9557;
-const lon = -80.0053;
+const lat = 21.52;
+const lon = -77.78;
 
 
 const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`;
